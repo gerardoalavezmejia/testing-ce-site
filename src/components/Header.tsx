@@ -1,4 +1,3 @@
-import { Zap } from 'lucide-react';
 
 function Header() {
     return (
